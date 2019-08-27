@@ -1,0 +1,128 @@
+2019-08-27T07:51:49.283Z - normal: Load ~/.CocosCreator/settings.json
+2019-08-27T07:51:49.286Z - normal: checking language setting...
+2019-08-27T07:51:49.286Z - normal: Language: en
+2019-08-27T07:51:52.628Z - success: protocol editor-framework registered
+2019-08-27T07:51:52.628Z - success: protocol app registered
+2019-08-27T07:51:52.628Z - success: protocol theme registered
+2019-08-27T07:51:52.628Z - success: protocol packages registered
+2019-08-27T07:51:52.628Z - success: protocol unpack registerred
+2019-08-27T07:51:52.628Z - success: protocol disable-commonjs registerred
+2019-08-27T07:51:54.606Z - normal: connected!
+2019-08-27T07:51:54.607Z - normal: Check project /Users/manojkumar/Desktop/DemoAndroidProject/DemoAndroid
+2019-08-27T07:51:54.608Z - normal: Initializing Cocos2d
+2019-08-27T07:51:55.710Z - normal: Initializing Asset Database
+2019-08-27T07:51:55.833Z - success: protocol uuid registerred
+2019-08-27T07:51:55.833Z - success: protocol db registerred
+2019-08-27T07:51:55.833Z - success: protocol thumbnail registerred
+2019-08-27T07:51:55.833Z - normal: Loading editor/builtin packages
+2019-08-27T07:51:55.879Z - success: anysdk loaded
+2019-08-27T07:51:56.057Z - success: assets loaded
+2019-08-27T07:51:56.060Z - success: builder loaded
+2019-08-27T07:51:56.062Z - success: cocos-analytics loaded
+2019-08-27T07:51:56.067Z - success: console loaded
+2019-08-27T07:51:56.072Z - success: hierarchy loaded
+2019-08-27T07:51:56.077Z - success: inspector loaded
+2019-08-27T07:51:56.078Z - success: keystore loaded
+2019-08-27T07:51:56.083Z - success: node-library loaded
+2019-08-27T07:51:56.085Z - success: package-asset loaded
+2019-08-27T07:51:56.087Z - success: preferences loaded
+2019-08-27T07:51:56.091Z - success: project-exporter loaded
+2019-08-27T07:51:56.106Z - success: project-importer loaded
+2019-08-27T07:51:56.109Z - success: project-settings loaded
+2019-08-27T07:51:56.137Z - success: ui-kit loaded
+2019-08-27T07:51:56.149Z - success: ui-grid loaded
+2019-08-27T07:51:56.153Z - success: scene loaded
+2019-08-27T07:51:56.154Z - success: sprite-editor loaded
+2019-08-27T07:51:56.161Z - success: store loaded
+2019-08-27T07:51:56.167Z - success: timeline loaded
+2019-08-27T07:51:56.167Z - normal: Loading builtin packages
+2019-08-27T07:51:56.180Z - success: asset-db-debugger loaded
+2019-08-27T07:51:56.181Z - success: color-picker loaded
+2019-08-27T07:51:56.185Z - success: package-manager loaded
+2019-08-27T07:51:56.290Z - success: sdkbox loaded
+2019-08-27T07:51:56.293Z - success: tester loaded
+2019-08-27T07:51:56.297Z - success: ui-kit-preview-extra loaded
+2019-08-27T07:51:56.301Z - success: ui-kit-preview loaded
+2019-08-27T07:51:56.313Z - success: ui-tree loaded
+2019-08-27T07:51:57.436Z - normal: Initializing project /Users/manojkumar/Desktop/DemoAndroidProject/DemoAndroid
+2019-08-27T07:51:57.485Z - normal: Loading packages
+2019-08-27T07:51:57.624Z - normal: Watching packages
+2019-08-27T07:51:57.659Z - normal: Run Application
+2019-08-27T07:52:01.804Z - success: preview server running at http://localhost:7457
+2019-08-27T07:52:07.736Z - normal: 1.8.2
+2019-08-27T07:53:11.766Z - warn: Error: ipc timeout. message: scene:query-node, session: scene@renderer:1890
+2019-08-27T07:57:00.659Z - normal: Start building with options : {
+  "androidStudio": true,
+  "apiLevel": "android-22",
+  "appABIs": [],
+  "appKey": "",
+  "appSecret": "",
+  "buildPath": "/Users/manojkumar/Desktop/DemoAndroidProject/DemoAndroid/build",
+  "debug": false,
+  "dest": "/Users/manojkumar/Desktop/DemoAndroidProject/DemoAndroid/build/jsb-link",
+  "encryptJs": true,
+  "excludeScenes": [],
+  "excludedModules": [],
+  "includeAnySDK": false,
+  "includeEruda": false,
+  "includeSDKBox": false,
+  "inlineSpriteFrames": true,
+  "inlineSpriteFrames_native": true,
+  "jailbreakPlatform": false,
+  "md5Cache": false,
+  "mergeStartScene": false,
+  "oauthLoginServer": "",
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "org.cocos2d.helloworld",
+  "platform": "mac",
+  "previewHeight": "720",
+  "previewWidth": "1280",
+  "privateKey": "",
+  "renderMode": "0",
+  "scenes": [
+    "2d2f792f-a40c-49bb-a189-ed176a246e49"
+  ],
+  "sourceMaps": false,
+  "startScene": "2d2f792f-a40c-49bb-a189-ed176a246e49",
+  "template": "link",
+  "title": "hello_world",
+  "useDebugKeystore": true,
+  "vsVersion": "auto",
+  "webOrientation": "auto",
+  "wechatgame": {
+    "appid": "wx6ac3f5090a6b99c5",
+    "orientation": "portrait"
+  },
+  "xxteaKey": "94c4827f-72a6-4f",
+  "zipCompressJs": true,
+  "project": "/Users/manojkumar/Desktop/DemoAndroidProject/DemoAndroid",
+  "projectName": "hello_world",
+  "debugBuildWorker": false
+}
+2019-08-27T07:57:00.726Z - normal: Building /Users/manojkumar/Desktop/DemoAndroidProject/DemoAndroid
+2019-08-27T07:57:00.726Z - normal: Destination /Users/manojkumar/Desktop/DemoAndroidProject/DemoAndroid/build/jsb-link
+2019-08-27T07:57:01.358Z - normal: Delete /Users/manojkumar/Desktop/DemoAndroidProject/DemoAndroid/build/jsb-link/res/**/*,/Users/manojkumar/Desktop/DemoAndroidProject/DemoAndroid/build/jsb-link/src/*/
+2019-08-27T07:57:01.669Z - normal: Checked Python Version [2.7.10]
+2019-08-27T07:57:22.403Z - normal: Compiled project javascript file successfully
+2019-08-27T07:57:22.413Z - normal: Start building assets
+2019-08-27T07:57:22.414Z - normal: Start spawn build-worker
+2019-08-27T07:57:23.008Z - normal: Finish spawn build-worker
+2019-08-27T07:57:23.008Z - normal: Start init build-worker
+2019-08-27T07:57:27.269Z - normal: 1.8.2
+2019-08-27T07:57:27.444Z - normal: Finish init build-worker
+2019-08-27T07:57:27.444Z - normal: Start build-assets in worker
+2019-08-27T07:57:28.291Z - info: Enable "Inline all SpriteFrames" in native platform will increase the package size used in hot update.
+2019-08-27T07:57:28.519Z - normal: Finish build-assets in worker
+2019-08-27T07:57:28.522Z - normal: Finish building assets
+2019-08-27T07:57:28.563Z - normal: Start building raw assets
+2019-08-27T07:57:28.566Z - normal: Start building plugin scripts
+2019-08-27T07:57:28.673Z - normal: Finish building raw assets
+2019-08-27T07:57:28.788Z - normal: Generating main.js from /Applications/CocosCreator.app/Contents/Resources/static/build-templates/shares/main.js
+2019-08-27T07:57:29.084Z - normal: Checked Python Version [2.7.10]
+2019-08-27T07:57:32.473Z - normal: Built to "/Users/manojkumar/Desktop/DemoAndroidProject/DemoAndroid/build/jsb-link" successfully
